@@ -1,4 +1,3 @@
-
 # backbone-view
 
   Backbone View [Component](https://github.com/component/component/wiki/Components)
@@ -11,7 +10,7 @@
 
 ```js
 
-var BackboneView = require('timoxley/backbone-view')
+var BackboneView = require('backbone-view')
 
 var DocumentRow = BackboneView.extend({
   tagName: "li",
