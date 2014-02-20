@@ -1,8 +1,8 @@
 // Backbone.View
 // -------------
-var _ = require('underscore')
-var $ = require('jquery')
-var Events = require('backbone-events')
+var _ = require('component-underscore')
+var $ = require('component-jquery')
+var Events = require('timoxley-backbone-events')
 
 // Creating a Backbone.View creates its initial element outside of the DOM,
 // if an existing element is not provided...

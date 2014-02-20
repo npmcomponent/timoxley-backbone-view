@@ -1,0 +1,11 @@
+{
+  "name": "timoxley-backbone-view",
+  "description": "Backbone View component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-underscore": "git://github.com/npmcomponent/component-underscore.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "timoxley-backbone-events": "git://github.com/npmcomponent/timoxley-backbone-events.git"
+  }
+}

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [timoxley/backbone-view](http://github.com/timoxley/backbone-view). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/timoxley-backbone-view`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # backbone-view
 
   Backbone View [Component](https://github.com/component/component/wiki/Components)
